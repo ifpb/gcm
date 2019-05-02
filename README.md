@@ -1,5 +1,3 @@
-![Banner da disciplina](assets/logo.jpg)
-
 A disciplina de Gerência de Configuração e Mudanças do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas tem como objetivo de possibilitar ao aluno compreender a importância do uso de mecanismos de gerência de configuração e de mudança, seus métodos, processos e ferramentas, possibilitando o controle dos inúmeros artefatos produzidos pelas muitas pessoas que trabalham em um mesmo projeto de software.
 
 A carga horária da disciplina apresenta um total de 33 horas aula e é ministrada pelo professor Diego Pessoa. Para as aulas serão utilizadas exposições e atividades práticas, além de avaliações individuais e em grupo.
@@ -7,23 +5,25 @@ A carga horária da disciplina apresenta um total de 33 horas aula e é ministra
 ## Objetivos
 * Mostrar a importância do controle do ciclo de vida de produtos e artefatos;
 * Apresentar noções sobre como gerenciar a configuração de artefatos e produtos;
-* Apresentar noções sobre como controlar mudanças produtos;
+* Apresentar noções sobre como controlar mudanças produtos;
 * Mostrar a utilização das principais ferramentas que possam auxiliar na tarefa de gerenciamento de configuração e mudança;
-* Mostrar a importância da Integração contínua.
+* Mostrar a importância da Integração contínua.
 
 ## Conteúdo
 1. Introdução
  * Conceitos de Artefatos e Produtos
  * Estruturação de Artefatos e Produtos
  * Noções sobre produção de produtos
-2. Configuração de Artefatos e Produtos  Conceitos
+2. Configuração de Artefatos e Produtos
+ * Conceitos
  * Características
  * Problemas / Soluções  Gerenciamento
 3. Controle de Mudanças
  * Planejamento
- * Riscos de Mudanças / Controle de Mudanças  Gerenciamento
+ * Riscos de Mudanças / Controle de Mudança
+ * Gerenciamento
 4. Principais Ferramentas
- * Ferramentas de Controle de Versão (centralizados/distribuídos) 
+ * Ferramentas de Controle de Versão (centralizados/distribuídos)
  * Ferramentas de Controle de Ciclo de Vida
  * Ferramentas de Acompanhamento de Produção
 5. Integração Contínua
