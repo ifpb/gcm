@@ -1,2 +1,6 @@
-/notebooks/.ipynb_checkpoints
-
+dist
+target
+www
+.zip
+.tar
+.jar
