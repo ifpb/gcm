@@ -1,2 +1,2 @@
-Nome=Nome do aluno
-Matrícula=Matricula do aluno
+﻿Nome=jussara
+Matrícula= xxxxxxxxxx
